@@ -2604,7 +2604,7 @@ input, select, textarea {
 		}
 
 			.image.main img {
-				min-width: 40%;
+				width: 100%;
 			}
 
 /* List */
